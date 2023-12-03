@@ -2,7 +2,7 @@ import { MainPage } from "page_components/MainPage/MainPage";
 
 
 function Main(): JSX.Element {
-  return (
+    return (
     <MainPage />
   );
 }
